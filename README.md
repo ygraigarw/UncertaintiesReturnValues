@@ -8,15 +8,15 @@ Content supports the publication "Uncertainties in return values from extreme va
 
 RunSimulation = main simulation code
 
-gpfitPWM = PWM fit (thanks to Ed Mackay for original code)
+gpfitPWM = PWM fit
 
-gpfitMOM = MOM fit (thanks to Ed Mackay for original code)
+gpfitMOM = MOM fit
 
-gpfitEB = EB fit (Zhang 2010; thanks to Ed Mackay for original code)
+gpfitEB = EB fit (Zhang 2010)
 
 AnnCdf2 = distribution of annual maximum
 
-AnnExcPrf = annual exceedance probability
+AnnExcPrb = annual exceedance probability
 
 RtrVal = return value
 
