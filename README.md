@@ -9,13 +9,13 @@ Content supports the publication "Uncertainties in return values from extreme va
 
 # Figure files
 
-Figure files provide supporting evidence for the discussion in Section 7 of paper
+Figure files provide supporting evidence for the discussion in Section 7 of paper, where different estimation schemes for generalised Pareto (GP) model are considered.
 
-AllMthPrmSct.png = generalised Pareto parameter estimate scatter as a function of sample size and estimation method
+AllMthPrmSct.png = GP parameter estimate scatter as a function of sample size and estimation method
 
-FrcBiasEB.png = fractional bias in return values for empirical Bayes approach
+FrcBiasEB.png = fractional bias in return values for empirical Bayes (EB) approach
 
-FrcBiasMOM.png = fractional bias in return values using method of moments
+FrcBiasMOM.png = fractional bias in return values using method of moments (MOM)
 
-FrcBiasPWM.png = fractional bias in return values using probability weighted moments
+FrcBiasPWM.png = fractional bias in return values using probability weighted moments (PWM)
 
