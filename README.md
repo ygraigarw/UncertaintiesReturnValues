@@ -34,7 +34,7 @@ pAxsLmt = nice axis limits
 
 # Figure files
 
-Figure files provide supporting evidence for the discussion in Section 7 of paper, where different estimation schemes for GP model are considered.
+Figure files provide supporting evidence for the discussion in Section 7 of paper, where different estimation schemes for GP model are considered. Use RunSimulation to generate more!
 
 AllMthPrmSct.png = GP parameter estimate scatter as a function of sample size and estimation method
 
