@@ -6,6 +6,8 @@ Content supports the publication "Uncertainties in return values from extreme va
 
 # Code files
 
+Code to (a) simulate GP data, (b) estimate different return values using different estimators and estimation schemes, and (c) characterise return value estimates obtained.
+
 RunSimulation = main simulation code
 
 gpfitPWM = PWM fit
