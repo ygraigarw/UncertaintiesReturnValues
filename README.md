@@ -28,6 +28,8 @@ pDflBig = nice font size
 
 pAxsLmt = nice axis limits
 
+(Original versions of EB, MOM and PWM code provided by Ed Mackay, checked by PhJ.)
+
 # Figure files
 
 Figure files provide supporting evidence for the discussion in Section 7 of paper, where different estimation schemes for GP model are considered.
