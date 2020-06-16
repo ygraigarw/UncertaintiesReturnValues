@@ -6,7 +6,7 @@ Content supports the publication "Uncertainties in return values from extreme va
 
 # Code files
 
-Code to (a) simulate GP data, (b) estimate different return values using different estimators and estimation schemes, and (c) characterise return value estimates obtained.
+Code to (a) simulate GP data for samples of different sizes, (b) estimate return values using (i) different estimators and (ii) different estimation schemes, and (c) characterise return value estimates obtained in terms of bias of (i) return value, (ii) exceedance probability and (iii) log exceedance probability.
 
 RunSimulation = main simulation code
 
