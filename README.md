@@ -1,5 +1,7 @@
 # UncertaintiesReturnValues
-Estimation of return values in the presence of uncertain extreme value model parameters
+
+Estimation of return values in the presence of uncertain extreme value model parameters.
+
 Content supports the publication "Uncertainties in return values from extreme value analysis using the generalised Pareto distribution" by Jonathan, Randell, Wadsworth and Tawn (2020).
 
 # Code files
